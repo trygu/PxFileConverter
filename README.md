@@ -1,4 +1,4 @@
-# PxTools.FileConverter
+# PxFileConverter
 
 `PxTools.FileConverter` is a simple console application designed for the conversion of `.px` files into various serialization formats. Built on top of the PCAxis framework, it offers the transformation of statistical data with ease and precision.
 
