@@ -16,7 +16,7 @@
 
 - `CommandLineParser` version `2.9.1`
 - `PcAxis.Core` version `1.2.3`
-- `PcAxis.Serializers` version `1.2.2`
+- `PcAxis.Serializers` version `1.2.1`
 
 ## Installation
 
