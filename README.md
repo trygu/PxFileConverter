@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
-- .NET Core 3.1 or later
+- .NET 6.0 or later
 - AWS account and credentials for S3 access (if using S3 features)
 
 ## Dependencies
