@@ -112,7 +112,7 @@ class Program
         BucketClient bucketClient = null;
         if (IsS3Uri(opts.Input) || IsS3Uri(opts.Output))
         {
-            bucketClient = new BucketClient(opts.Endpoint, opts.AccessKey, opts.SecretKey, false, null, null, opts.SessionToken);
+            bucketClient = new BucketClient(opts.Endpoint, opts.AccessKey, opts.SecretKey, opts.SessionToken);
         }
 
         // Process input path
